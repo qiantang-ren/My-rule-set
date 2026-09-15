@@ -1,8 +1,10 @@
-# YouTube 补充规则：网页、视频流、图片和静态资源统一走 📹 YouTube
+# YouTube 稳定版
+# 网页、视频流、图片及静态资源统一进入 📹 YouTube
+# 不使用 DOMAIN-KEYWORD，避免误匹配
+
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ggpht.com
-DOMAIN-KEYWORD,youtube
